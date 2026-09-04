@@ -69,6 +69,7 @@ Performance Scoring
 Feedback Dashboard
 
 ---
+```
 
 ## 🛠 Technology Stack
 
